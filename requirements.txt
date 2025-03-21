@@ -1,0 +1,7 @@
+# Core dependencies
+argparse>=1.4.0
+typing>=3.7.4.3
+
+# Web scraping dependencies
+requests>=2.25.1
+beautifulsoup4>=4.9.3
