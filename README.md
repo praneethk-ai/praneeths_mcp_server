@@ -39,7 +39,7 @@ Follow these easy steps to set up the MCP server locally:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/praneethk-ai/praneeths_mcp_server.git
 cd MCP_Server
 ```
 
