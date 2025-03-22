@@ -78,7 +78,49 @@ WEBSCRAPING
 exit
 ```
 
+### Commands
+
+- `switch`: Change to a different MCP
+- `exit`: Exit the server
+
+## Example Interactions
+
+### Research MCP
+
+```
+[RESEARCH MCP] Enter your request: I need information about quantum computing
+
+[RESEARCH MCP]: What specific aspects of this topic are you most interested in?
+Your answer: I'm interested in quantum algorithms and their applications
+
+[RESEARCH MCP RESPONSE]: Based on your interest in I need information about quantum computing and your clarification that I'm interested in quantum algorithms and their applications, I've analyzed the available information and found that:
+
+1. This topic has several important aspects worth exploring.
+2. Recent developments have changed how experts view this field.
+
+Relevant sources include recent publications by leading researchers and established textbooks in the field.
+```
+
+### Webscraping MCP
+
+```
+[WEBSCRAPING MCP] Enter your request: I want to scrape product data from an e-commerce site
+
+[WEBSCRAPING MCP]: What specific website or URL would you like to scrape data from?
+Your answer: https://example.com/products
+
+[WEBSCRAPING MCP RESPONSE]: Based on your request to scrape data from https://example.com/products here's how we can approach this:
+
+1. **Web Scraping Approach**:
+   - We can use the Requests library with BeautifulSoup for parsing the HTML content.
+
+2. **Data Extraction**:
+   - We'll extract the main content based on common HTML patterns and selectors.
+
+3. **Output Format**:
 Interact with the server by specifying clear, descriptive requests, and receive structured responses for research and web scraping tasks.
+
+
 
 ## Project Structure 📁
 ```
