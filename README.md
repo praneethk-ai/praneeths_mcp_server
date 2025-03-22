@@ -128,6 +128,8 @@ Your answer: https://example.com/products
 
 ```
 ### Project Structure 
+```
+
 MCP_Server
 │
 ├── mcp_research.py      # Research MCP Implementation
@@ -137,7 +139,7 @@ MCP_Server
 ├── requirements.txt     # Dependencies list
 └── README.md            # Project documentation
 ```
-```
+
 Future Scope 🌟
 
 This project aims to continually grow by adding additional specialized MCP modules such as:
