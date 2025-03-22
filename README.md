@@ -137,20 +137,22 @@ MCP_Server
 ├── requirements.txt     # Dependencies list
 └── README.md            # Project documentation
 ```
+```
+Future Scope 🌟
 
-### Future Scope 🌟
 This project aims to continually grow by adding additional specialized MCP modules such as:
 
-- **AI-Driven Analysis**
-- **Real-Time Data Processing**
-- **Natural Language Generation**
-- **Sentiment and Trend Analysis**
-
+AI-Driven Analysis
+Real-Time Data Processing
+Natural Language Generation
+Sentiment and Trend Analysis
 The modular nature encourages innovation and integration of novel functionalities.
 
-### Contributing 🤝
+Contributing 🤝
+
 Contributions, enhancements, or feature requests are warmly welcomed! Please open an issue or pull request to start collaborating.
 
-## License 📝
-This project is licensed under the MIT License — see the LICENSE file for details.
+License 📝
 
+This project is licensed under the MIT License — see the LICENSE file for details.
+```
