@@ -1,6 +1,10 @@
 # Model Context Protocol (MCP) Server 🚀
 
 ## Overview 📚
+
+![image](https://github.com/user-attachments/assets/7ca5775a-5c02-4695-b4bc-8b45103f5168)
+
+
 The Model Context Protocol (MCP) Server is a versatile, modular server designed to handle multiple specialized context-aware tasks. Currently, this implementation includes MCPs for research and web scraping functionalities, making it an ideal foundation for projects requiring automated research or real-time web data extraction.
 
 ## Purpose & Motivation 🎯
