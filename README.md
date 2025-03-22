@@ -83,6 +83,11 @@ exit
 - `switch`: Change to a different MCP
 - `exit`: Exit the server
 
+### Commands
+
+- `switch`: Change to a different MCP
+- `exit`: Exit the server
+
 ## Example Interactions
 
 ### Research MCP
@@ -118,12 +123,11 @@ Your answer: https://example.com/products
    - We'll extract the main content based on common HTML patterns and selectors.
 
 3. **Output Format**:
-Interact with the server by specifying clear, descriptive requests, and receive structured responses for research and web scraping tasks.
+   - The scraped data will be provided in JSON format, which is easily parseable and can be used in various applications.
 
 
-
-## Project Structure 📁
 ```
+### Project Structure 
 MCP_Server
 │
 ├── mcp_research.py      # Research MCP Implementation
@@ -134,7 +138,7 @@ MCP_Server
 └── README.md            # Project documentation
 ```
 
-## Future Scope 🌟
+### Future Scope 🌟
 This project aims to continually grow by adding additional specialized MCP modules such as:
 
 - **AI-Driven Analysis**
@@ -144,12 +148,9 @@ This project aims to continually grow by adding additional specialized MCP modul
 
 The modular nature encourages innovation and integration of novel functionalities.
 
-## Contributing 🤝
+### Contributing 🤝
 Contributions, enhancements, or feature requests are warmly welcomed! Please open an issue or pull request to start collaborating.
 
 ## License 📝
 This project is licensed under the MIT License — see the LICENSE file for details.
 
----
-
-🌟 **Happy Coding! May your MCP Server power your projects with insight, automation, and efficiency!** 🌟
